@@ -1,2 +1,8 @@
-# hello-world
-a simple project about java
+^_^
+
+Hi humans!
+
+I am very glad to speak here .
+I belive we will better and better!
+
+Good luck~
